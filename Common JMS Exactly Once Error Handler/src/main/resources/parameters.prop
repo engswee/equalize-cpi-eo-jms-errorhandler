@@ -1,0 +1,12 @@
+#
+#Wed Jun 19 06:55:53 UTC 2019
+JMSExpirationPeriodInDays=90
+JMSDeadLetterQueue=0
+JMSConcurrentProcesses=1
+MaxRetries=10
+JMSRetryIntervalInMinutes=5
+JMSRetentionThreshold=2
+ProcessDirectEntryEndpoint=/JMSEOErrorHandler
+JMSMaximumRetryIntervalInMinutes=60
+JMSErrorQueue=EORetryQueue
+JMSExponentialBackoff=1

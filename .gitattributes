@@ -1,0 +1,18 @@
+# Normalize all other text files not explicitly specified
+# Check-in - converts to LF
+# Check-out - depends on core.autocrlf or core.eol
+* text=auto
+
+# Always normalize to LF when checking-out to working directory
+*.groovy eol=lf
+*.xsd eol=lf
+*.xml eol=lf
+
+
+# Always normalize to CRLF when checking-out to working directory
+*.mmap eol=crlf
+*.json eol=crlf
+*.txt eol=crlf
+*.wsdl eol=crlf
+*.iflw eol=crlf
+*.edmx eol=crlf

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common JMS Exactly Once Error Handler/Common_JMS_Exactly_Once_Error_Handler.iml" filepath="$PROJECT_DIR$/Common JMS Exactly Once Error Handler/Common_JMS_Exactly_Once_Error_Handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sender Flow/Sender_Flow.iml" filepath="$PROJECT_DIR$/Sender Flow/Sender_Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Target Flow/Target_Flow.iml" filepath="$PROJECT_DIR$/Target Flow/Target_Flow.iml" />
+    </modules>
+  </component>
+</project>
